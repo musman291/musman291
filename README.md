@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman Nasir
 - 👀 I’m interested in Use Cases of Airtificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence
-- 💸 I’m looking to collaborate on Business Projects
+-  I’m looking to collaborate on Business Projects
 - 📫 Contact: nmusman702@gmail.com
 - ⚡ Open for work 
 
